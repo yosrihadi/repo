@@ -44,6 +44,16 @@
           ]
         }
       ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### الإصدار 0.0.1-11\n* إطلاق الأداة (Release).\n* دعم التوافق مع أحدث الميزات والإصدارات.\n\n### الإصدارات السابقة\n* تحسين الأداء العام وإصلاح بعض الأخطاء البرمجية."
+        }
+      ]
     }
   ]
 }
