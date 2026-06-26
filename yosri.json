@@ -1,0 +1,49 @@
+{
+  minVersion 0.1,
+  class DepictionTabView,
+  tabs [
+    {
+      tabname Details,
+      class DepictionStackView,
+      views [
+        {
+          class DepictionHeaderView,
+          title اسم الأداة هنا,
+          backdropURL httpsyour-repo-url.comassetsheader.png
+        },
+        {
+          class DepictionSubheaderView,
+          title وصف قصير جداً للأداة يظهر أسفل الهيدر
+        },
+        {
+          class DepictionMarkdownView,
+          markdown ### مميزات الأداةn الميزة الأولى هنا.n الميزة الثانية هنا.n دعم التخصيص الكامل من الإعدادات.
+        },
+        {
+          class DepictionSpacerView
+        },
+        {
+          class DepictionHeaderView,
+          title صور الأداة (Screenshots),
+          useBoldText true,
+          useMargins true
+        },
+        {
+          class DepictionScreenshotsView,
+          itemCornerRadius 8,
+          itemSize {160, 346},
+          screenshots [
+            {
+              url httpsyour-repo-url.comassetsscreenshot1.png,
+              accessibilityText Screenshot 1
+            },
+            {
+              url httpsyour-repo-url.comassetsscreenshot2.png,
+              accessibilityText Screenshot 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
