@@ -1,0 +1,49 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "YosriPal",
+          "backdropURL": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/baner.png"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "أداة احترافية لتخصيص وإضافة مميزات متقدمة للتطبيقات."
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### المميزات الرئيسية:\n* دمج وتشغيل أدوات التعديل والمكتبات بسلاسة.\n* تحسين الأداء ودعم كامل لأحدث الميزات.\n* خيارات تخصيص متقدمة يمكنك التحكم بها من الإعدادات مباشرة."
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "لقطات الشاشة (Screenshots)",
+          "useBoldText": true,
+          "useMargins": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 10,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "url": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/1.jpeg",
+              "accessibilityText": "Screenshot 1"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/2.jpeg",
+              "accessibilityText": "Screenshot 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
