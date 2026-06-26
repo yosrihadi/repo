@@ -13,6 +13,6 @@ SHA1: dc161a523bb4b6e6cb8067c0af37187abf1dc02b
 SHA256: 04d5f0dd873d298bfccf20c8478bcaf83de229bf6fbf4f7dea2a5e0eabe6a29e
 Section: Tweaks
 Description: A Facebook tweak scaffold for jailbroken iOS devices.
-Depiction: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/yosri.json
-SileoDepiction: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/yosri.json
-Icon: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/icon.png
+Depiction: https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/yosri.json
+SileoDepiction: https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/yosri.json
+Icon: https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/icon.png

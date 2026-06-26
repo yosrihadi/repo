@@ -9,7 +9,7 @@
         {
           "class": "DepictionHeaderView",
           "title": "YosriPal",
-          "backdropURL": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/baner.png"
+          "backdropURL": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/baner.png"
         },
         {
           "class": "DepictionSubheaderView",
@@ -34,11 +34,11 @@
           "itemSize": "{160, 346}",
           "screenshots": [
             {
-              "url": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/1.jpeg",
+              "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/1.jpeg",
               "accessibilityText": "Screenshot 1"
             },
             {
-              "url": "https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/imgs/2.jpeg",
+              "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/2.jpeg",
               "accessibilityText": "Screenshot 2"
             }
           ]
