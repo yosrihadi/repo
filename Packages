@@ -1,5 +1,5 @@
 Package: com.yosri.yosripal
-Version: 0.1.2026.6.26
+Version: 0.0.1-11+debug
 Architecture: iphoneos-arm64
 Maintainer: Yosri
 Installed-Size: 1216
@@ -13,4 +13,7 @@ Section: Tweaks
 Description: A Facebook tweak scaffold for jailbroken iOS devices.
 Author: Yosri
 Name: YosriPal
+
+Depiction: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/yosri.json
+SileoDepiction: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/yosri.json
 
