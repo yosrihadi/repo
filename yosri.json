@@ -1,59 +1,60 @@
 {
-  "minVersion": "0.1",
-  "class": "DepictionTabView",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "class": "DepictionStackView",
-      "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "YosriPal",
-          "backdropURL": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/baner.png"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "أداة احترافية لتخصيص وإضافة مميزات متقدمة للتطبيقات."
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### المميزات الرئيسية:\n* دمج وتشغيل أدوات التعديل والمكتبات بسلاسة.\n* تحسين الأداء ودعم كامل لأحدث الميزات.\n* خيارات تخصيص متقدمة يمكنك التحكم بها من الإعدادات مباشرة."
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "لقطات الشاشة (Screenshots)",
-          "useBoldText": true,
-          "useMargins": true
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 10,
-          "itemSize": "{160, 346}",
-          "screenshots": [
-            {
-              "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/1.jpeg",
-              "accessibilityText": "Screenshot 1"
-            },
-            {
-              "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/2.jpeg",
-              "accessibilityText": "Screenshot 2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tabname": "Changelog",
-      "class": "DepictionStackView",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### الإصدار 0.0.1-11\n* إطلاق الأداة (Release).\n* دعم التوافق مع أحدث الميزات والإصدارات.\n\n### الإصدارات السابقة\n* تحسين الأداء العام وإصلاح بعض الأخطاء البرمجية."
-        }
-      ]
-    }
-  ]
+  "version": "1.0",
+  "package_info": {
+    "id": "com.yosri.yosripal",
+    "name": "YosriPal",
+    "developer": "Yosri",
+    "tagline": "أداة احترافية لتخصيص وإضافة مميزات متقدمة لتطبيق الفيس بوك.",
+    "banner_url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/baner.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/icon.png"
+  },
+  "banner_settings": {
+  "aspect_ratio": "16:9",
+  "use_blur": true,
+  "overlay_opacity": 0.4,
+  "height_offset": 20
+},
+  "branding": {
+    "primary_color": "#4facfe",
+    "secondary_color": "#00f2fe",
+    "theme": "glow_style"
+  },
+  "content": {
+    "features": [
+      {
+        "title": "المميزات الرئيسية",
+        "items": [
+          "دمج وتشغيل أدوات التعديل والمكتبات بسلاسة.",
+          "تحسين الأداء ودعم كامل لأحدث الميزات.",
+          "خيارات تخصيص متقدمة يمكنك التحكم بها من الإعدادات مباشرة."
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/1.jpeg",
+        "alt": "Screenshot 1"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/2.jpeg",
+        "alt": "Screenshot 2"
+      }
+    ],
+    "changelog": [
+      {
+        "version": "0.0.1.2026.6.26",
+        "date": "2026-06-26",
+        "changes": ["إطلاق الأداة الرسمي (Release)", "دعم كامل للمميزات المتقدمة"]
+      },
+      {
+       "version": "0.0.1.2026.6.27",
+        "date": "2026-06-27",
+        "changes": ["تحسين الأداء العام وإصلاح بعض الأخطاء البرمجية."]
+      }
+    ]
+  },
+  "social_links": {
+    "telegram": "https://t.me/your_channel",
+    "twitter": "https://twitter.com/your_handle"
+  }
 }
