@@ -1,9 +1,23 @@
-Origin: YH-Pal Repo
-Label: YH-Pal Repo
+Origin: Yosri Repo
+Label: Yosri
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: مستودع أدواتي الخاصة
-Icon: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/CydiaIcon.png
+Description: My Personal iOS Repository
+MD5Sum:
+ 650d5a001a4b8d9dd6d30de289221241 502 Packages
+ 3225d4c51f75a1ace033ba5272c86bc4 398 Packages.bz2
+ 14da27d8ac273885d220826c2553cdbd 432 Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages.zst
+SHA1:
+ 8367f43bb9f11c79cf92d6408131d118b807aee8 502 Packages
+ cd062edd34acb407c4774a21a08a54d0dc0e4f65 398 Packages.bz2
+ 14bb8d57aae10f52ebbbb52855073be2eaffb597 432 Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 Packages.zst
+SHA256:
+ c14df1dcbd3877256b54f586a09480794010bfaa3a07758b9425b3458d8ddc7b 502 Packages
+ 8fe7017c1430f27e483ef9e3b65eac8c51f4ea00fa3f80b0eaafbec448042f76 398 Packages.bz2
+ 425e9c8e31d56c4ff069942649d51d3d8421f94f1f3c996b668db7fc6151e40c 432 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages.zst
