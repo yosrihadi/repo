@@ -31,7 +31,7 @@
 ---
 
 ## 📱 التوافق (Compatibility)
-*   **نظام التشغيل:** iOS 14.0 إلى iOS 16.5
+*   **نظام التشغيل:** iOS 14.0 إلى iOS 26.5
 *   **المعالجات المدعومة:** Arm64 / Arm64e
 *   **بيئات الجيلبريك:** متوافقة مع أحدث بيئات الجيلبريك (Rootful / Rootless).
 
@@ -43,4 +43,4 @@
 2. انتقل إلى تبويب **المصادر (Sources)**.
 3. قم بإضافة المستودع (Repo) الخاص بي:
    ```text
-   [https://yosrihadi.github.io/repo/]
+   https://yosrihadi.github.io/repo
