@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "package_info": {
+    "id": "com.yosri.yosripal",
+    "name": "YosriPal",
+    "developer": "Yosri",
+    "tagline": "أداة احترافية لتخصيص وإضافة مميزات متقدمة لتطبيق الفيس بوك.",
+    "banner_url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/baner.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/icon.png"
+  },
+  "banner_settings": {
+  "aspect_ratio": "16:9",
+  "use_blur": true,
+  "overlay_opacity": 0.4,
+  "height_offset": 20
+},
+  "branding": {
+    "primary_color": "#4facfe",
+    "secondary_color": "#00f2fe",
+    "theme": "glow_style"
+  },
+  "content": {
+    "features": [
+      {
+        "title": "المميزات الرئيسية",
+        "items": [
+          "دمج وتشغيل أدوات التعديل والمكتبات بسلاسة.",
+          "تحسين الأداء ودعم كامل لأحدث الميزات.",
+          "خيارات تخصيص متقدمة يمكنك التحكم بها من الإعدادات مباشرة."
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/1.jpeg",
+        "alt": "Screenshot 1"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/yosrihadi/repo@main/imgs/2.jpeg",
+        "alt": "Screenshot 2"
+      }
+    ],
+    "changelog": [
+      {
+        "version": "0.0.1.2026.6.26",
+        "date": "2026-06-26",
+        "changes": ["إطلاق الأداة الرسمي (Release)", "دعم كامل للمميزات المتقدمة"]
+      },
+      {
+       "version": "0.0.1.2026.6.27",
+        "date": "2026-06-27",
+        "changes": ["تحسين الأداء العام وإصلاح بعض الأخطاء البرمجية."]
+      }
+    ]
+  },
+  "social_links": {
+    "telegram": "https://t.me/your_channel",
+    "twitter": "https://twitter.com/your_handle"
+  }
+}
