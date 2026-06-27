@@ -43,4 +43,4 @@
 2. انتقل إلى تبويب **المصادر (Sources)**.
 3. قم بإضافة المستودع (Repo) الخاص بي:
    ```text
-   [https://yosrihadi.github.io/repo/](https://yosrihadi.github.io/repo/)
+   [https://yosrihadi.github.io/repo/]
