@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Yosri
 Installed-Size: 1216
 Depends: mobilesubstrate
-Filename: ./debs/com.yosri.yosripal_0.0.1-11+debug_iphoneos-arm64.deb
+Filename: ./debs/com.yosri.yosripal_0.0.1-12+debug_iphoneos-arm64.deb
 Size: 281324
 MD5sum: a5f389095c4d5b523bbd1b80376b0e8b
 SHA1: dc161a523bb4b6e6cb8067c0af37187abf1dc02b
