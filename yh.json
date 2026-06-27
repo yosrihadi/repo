@@ -1,0 +1,88 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://raw.githubusercontent.com/yosrihadi/repo/main/imgs/baner.png",
+  "tintColor": "#007aff",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "YosriPal"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "أداة مخصصة للنظام"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 284}",
+          "screenshots": [
+            {
+              "url": "https://raw.githubusercontent.com/yosrihadi/repo/main/imgs/1.jpeg",
+              "accessibilityText": "Screenshot 1"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/yosrihadi/repo/main/imgs/2.jpeg",
+              "accessibilityText": "Screenshot 2"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### أهلاً بك في أداة YosriPal\n\nهذه الأداة تم تطويرها لتقديم وظائف متقدمة داخل النظام مع التركيز الكامل على الأداء واستقرار البطارية.\n\n**المميزات الأساسية:**\n- دعم كامل لمعالجات Arm64.\n- واجهة تحكم خفيفة وسريعة الاستجابة.\n- متوافقة مع أحدث إصدارات بيئة الجيلبريك."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "المطور",
+          "text": "Yosri Hadi"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "الإصدار الحالي",
+          "text": "0.0.1-12"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "التوافق",
+          "text": "iOS 14.0 - iOS 16.5"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "سجل التحديثات"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "إصدار 0.0.1-12"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- تحديث ملفات العرض (Depictions) لدعم متجر Sileo بشكل كامل.\n- تحسين هيكلة المستودع وحل أخطاء التشفير (Hashes).\n- إضافة الدعم الأولي لبيئات الجيلبريك الحديثة."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "إصدار 0.0.1-11"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- الإصدار التجريبي الأول للأداة (Initial Release)."
+        }
+      ]
+    }
+  ]
+}

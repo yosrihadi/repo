@@ -1,0 +1,25 @@
+Origin: YH-Pal Repo
+Label: YH-Pal Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: مستودع أدواتي الخاصة
+Icon: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/CydiaIcon.png
+
+MD5Sum:
+ f959e062f0de1a4b053b56dd27361424 652 Packages
+ 7815944c69ca04f3e5766f935f03b609 496 Packages.bz2
+ a354f9e0298617ee283e46263bd90944 504 Packages.xz
+ ea204f244628a97e60350495cad3b887 429 Packages.zst
+SHA1:
+ f7b48ef5962f20bee6a9523be0694a4fc1635c11 652 Packages
+ bc238bb2255cf15dae843bd368f53906b39c96ec 496 Packages.bz2
+ 2c8c494ec987c1b1ded4a0f00e5420ea00549e1e 504 Packages.xz
+ caa68809ecca18e230c6fdceebf397c73c76adb9 429 Packages.zst
+SHA256:
+ 97f1526dc5fd796fbdb91f2345d21cc6f725f152a963419a5c14e30735a2046c 652 Packages
+ 7888cfcc5862f1c7ba5aa1c5641c3e40f925f1de77d0a9150e435d37c888d90f 496 Packages.bz2
+ 3f97c67106e20257af30b556d183083c2ce19db250d1fd25a56dd9f2f954e49f 504 Packages.xz
+ 3e11c8d9bfabc0aad15cf48abd468c761c43362dcb4e69b8cd9296887baf6b94 429 Packages.zst
