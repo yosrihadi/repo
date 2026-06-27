@@ -6,7 +6,7 @@
   **أداة جيلبريك متطورة للتحكم الكامل بتطبيق فيسبوك (Facebook)**
 
   [![Version](https://img.shields.io/badge/Version-0.0.1--12-blue.svg?style=flat-square)]()
-  [![iOS Compatibility](https://img.shields.io/badge/iOS-14.0%20%7C%2016.5-success.svg?style=flat-square)]()
+  [![iOS Compatibility](https://img.shields.io/badge/iOS-14.0%20%7C%2026.5-success.svg?style=flat-square)]()
   [![Developer](https://img.shields.io/badge/Developer-Yosri%20Hadi-orange.svg?style=flat-square)]()
 </div>
 
