@@ -18,14 +18,16 @@ zstd -c19 Packages > Packages.zst
 echo "create  Release..."
 # بناء ملف Release الأساسي
 cat <<EOF > Release
-Origin: Yosri Repo
-Label: Yosri
+Origin: YH-Pal Repo
+Label: YH-Pal Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: My Personal iOS Repository
+Description: مستودع أدواتي الخاصة
+Icon: https://raw.githubusercontent.com/yosrihadi/repo/refs/heads/main/CydiaIcon.png
+
 EOF
 
 # حساب التشفير والحجم للملفات وإضافتها لملف Release (مهم جداً لـ Sileo)
